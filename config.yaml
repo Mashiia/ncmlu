@@ -6,9 +6,9 @@ catnap:
 sleep:
   number: -1
   duration: 30 # minutes
-playlist:
-  - 4234112
-  - 4312424
+#playlist:
+#  - 4234112
+#  - 4312424
 accounts:
   - phone: 18682283321
     passwd: "67873437868573c6cf0c965a5157016d"
